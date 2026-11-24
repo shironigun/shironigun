@@ -1,6 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="157" height="44" viewBox="0 0 157 44" role="img" aria-label="Portfolio" font-family="'Segoe UI Variable Display', 'Segoe UI', 'SF Pro Display', -apple-system, 'Helvetica Neue', Arial, sans-serif">
+<svg xmlns="http://www.w3.org/2000/svg" width="157" height="44" viewBox="0 0 157 44" role="img" aria-label="Portfolio" font-family="'Schibsted Grotesk', 'Inter', 'Segoe UI Variable Display', 'Segoe UI', 'SF Pro Display', -apple-system, 'Helvetica Neue', Arial, sans-serif">
 <title>Portfolio</title>
-<rect x="1" y="1" width="155" height="42" rx="21" fill="#FF9447" stroke="#FF9447" stroke-opacity="1" stroke-width="2"/>
-<g transform="translate(18 12) scale(0.8333333333333334)" fill="#0B1622"><path d="M12 2a10 10 0 1 0 0 20 10 10 0 0 0 0-20Zm6.9 6h-2.9a15.7 15.7 0 0 0-1.4-3.6A8 8 0 0 1 18.9 8ZM12 4a13.9 13.9 0 0 1 1.9 4h-3.8A13.9 13.9 0 0 1 12 4ZM4.3 14a8.2 8.2 0 0 1 0-4h3.4a16.5 16.5 0 0 0 0 4Zm.8 2h2.9a15.7 15.7 0 0 0 1.4 3.6A8 8 0 0 1 5.1 16ZM8 8H5.1a8 8 0 0 1 4.3-3.6A15.7 15.7 0 0 0 8 8Zm4 12a13.9 13.9 0 0 1-1.9-4h3.8A13.9 13.9 0 0 1 12 20Zm2.3-6H9.7a14.7 14.7 0 0 1 0-4h4.6a14.7 14.7 0 0 1 0 4Zm.3 5.6a15.7 15.7 0 0 0 1.4-3.6h2.9a8 8 0 0 1-4.3 3.6Zm1.7-5.6a16.5 16.5 0 0 0 0-4h3.4a8.2 8.2 0 0 1 0 4Z"/></g>
-<text x="48" y="28" font-size="16" font-weight="650" fill="#0B1622">Portfolio</text>
+<rect x="1" y="1" width="155" height="42" rx="21" fill="#4A68F2" stroke="#8FA3FF" stroke-width="1.5"/>
+<g transform="translate(18 12) scale(0.8333333333333334)" fill="#ECEDEF"><path d="M12 2a10 10 0 1 0 0 20 10 10 0 0 0 0-20Zm6.9 6h-2.9a15.7 15.7 0 0 0-1.4-3.6A8 8 0 0 1 18.9 8ZM12 4a13.9 13.9 0 0 1 1.9 4h-3.8A13.9 13.9 0 0 1 12 4ZM4.3 14a8.2 8.2 0 0 1 0-4h3.4a16.5 16.5 0 0 0 0 4Zm.8 2h2.9a15.7 15.7 0 0 0 1.4 3.6A8 8 0 0 1 5.1 16ZM8 8H5.1a8 8 0 0 1 4.3-3.6A15.7 15.7 0 0 0 8 8Zm4 12a13.9 13.9 0 0 1-1.9-4h3.8A13.9 13.9 0 0 1 12 20Zm2.3-6H9.7a14.7 14.7 0 0 1 0-4h4.6a14.7 14.7 0 0 1 0 4Zm.3 5.6a15.7 15.7 0 0 0 1.4-3.6h2.9a8 8 0 0 1-4.3 3.6Zm1.7-5.6a16.5 16.5 0 0 0 0-4h3.4a8.2 8.2 0 0 1 0 4Z"/></g>
+<text x="48" y="28" font-size="16" font-weight="650" fill="#ECEDEF">Portfolio</text>
 </svg>

@@ -1,6 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="130" height="44" viewBox="0 0 130 44" role="img" aria-label="Resume" font-family="'Segoe UI Variable Display', 'Segoe UI', 'SF Pro Display', -apple-system, 'Helvetica Neue', Arial, sans-serif">
+<svg xmlns="http://www.w3.org/2000/svg" width="130" height="44" viewBox="0 0 130 44" role="img" aria-label="Resume" font-family="'Schibsted Grotesk', 'Inter', 'Segoe UI Variable Display', 'Segoe UI', 'SF Pro Display', -apple-system, 'Helvetica Neue', Arial, sans-serif">
 <title>Resume</title>
-<rect x="1" y="1" width="128" height="42" rx="21" fill="#1E3044" stroke="#FF9447" stroke-opacity="0.55" stroke-width="2"/>
-<g transform="translate(18 12) scale(0.8333333333333334)" fill="#EEF2F7"><path d="M6 2h8l6 6v12a2 2 0 0 1-2 2H6a2 2 0 0 1-2-2V4a2 2 0 0 1 2-2Zm7 1.5V9h5.5ZM8 13h8v2H8Zm0 4h8v2H8Z"/></g>
-<text x="48" y="28" font-size="16" font-weight="650" fill="#EEF2F7">Resume</text>
+<rect x="1" y="1" width="128" height="42" rx="21" fill="#1E222B" stroke="#262A32" stroke-width="2"/>
+<g transform="translate(18 12) scale(0.8333333333333334)" fill="#ECEDEF"><path d="M6 2h8l6 6v12a2 2 0 0 1-2 2H6a2 2 0 0 1-2-2V4a2 2 0 0 1 2-2Zm7 1.5V9h5.5ZM8 13h8v2H8Zm0 4h8v2H8Z"/></g>
+<text x="48" y="28" font-size="16" font-weight="650" fill="#ECEDEF">Resume</text>
 </svg>
