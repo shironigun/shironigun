@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="196" viewBox="0 0 1280 196" role="img" aria-label="Now: leading AI feature definition, prototyping and evaluation, alongside the QA team. Learning machine learning and AI evaluation. Proof: 10 Claude Code plugins, 38 skills. Quality Gates adopted by 3 teams. 1st of 11 teams in an AI hackathon. A 183-page guide to working with Claude." font-family="'Segoe UI Variable Display', 'Segoe UI', 'SF Pro Display', -apple-system, 'Helvetica Neue', Arial, sans-serif">
+<title>Now: leading AI feature definition, prototyping and evaluation, alongside the QA team. Learning machine learning and AI evaluation. Proof: 10 Claude Code plugins, 38 skills. Quality Gates adopted by 3 teams. 1st of 11 teams in an AI hackathon. A 183-page guide to working with Claude.</title>
+<style>
+  .pulse { transform-box: fill-box; transform-origin: center; animation: pulse 2.4s ease-out infinite; }
+  .line { opacity: 0; animation: line 16s infinite; }
+  .type { transform-box: fill-box; transform-origin: left center; animation: type 16s steps(36, end) infinite; }
+  .caret { animation: caret 1s steps(1) infinite; }
+  @keyframes pulse { 0% { transform: scale(1); opacity: .55; } 100% { transform: scale(2.6); opacity: 0; } }
+  @keyframes line { 0%, 24% { opacity: 1; } 25%, 100% { opacity: 0; } }
+  @keyframes type { 0% { transform: scaleX(0); } 9%, 100% { transform: scaleX(1); } }
+  @keyframes caret { 50% { opacity: 0; } }
+  @media (prefers-reduced-motion: reduce) { .pulse, .line, .type, .caret { animation: none; } .line { opacity: 0; } .line:first-of-type { opacity: 1; } }
+</style>
+<defs>
+  <linearGradient id="n-bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#1E3044"/><stop offset="1" stop-color="#0B1622"/></linearGradient>
+  <pattern id="n-dots" width="24" height="24" patternUnits="userSpaceOnUse"><circle cx="2" cy="2" r="1.1" fill="#fff" fill-opacity=".05"/></pattern>
+</defs>
+<rect width="1280" height="196" rx="28" fill="url(#n-bg)"/>
+<rect width="1280" height="196" rx="28" fill="url(#n-dots)"/>
+<circle class="pulse" cx="64" cy="57" r="7" fill="#FF9447"/>
+<circle cx="64" cy="57" r="7" fill="#FF9447"/>
+<text x="84" y="63" font-size="17" font-weight="650" fill="#FF9447">Now</text>
+<text x="56" y="104" font-size="20" fill="#EEF2F7">Leading AI feature definition, prototyping</text>
+<text x="56" y="132" font-size="20" fill="#EEF2F7">and evaluation, alongside the QA team.</text>
+<text x="56" y="164" font-size="16" fill="#8FA3BA">Learning machine learning and AI evaluation.</text>
+<line x1="666" y1="36" x2="666" y2="160" stroke="#fff" stroke-opacity=".1" stroke-width="2"/>
+<text x="706" y="63" font-size="17" font-weight="650" fill="#FF9447">Proof</text>
+  <clipPath id="n-type0"><rect class="type" style="animation-delay:0s" x="706" y="70" width="563" height="50"/></clipPath>
+  <g class="line" style="animation-delay:0s" clip-path="url(#n-type0)"><text x="706" y="106" font-size="24" font-weight="650" fill="#EEF2F7">10 Claude Code plugins, 38 skills.<tspan class="caret" fill="#FF9447">|</tspan></text></g>
+  <clipPath id="n-type1"><rect class="type" style="animation-delay:4s" x="706" y="70" width="547" height="50"/></clipPath>
+  <g class="line" style="animation-delay:4s" clip-path="url(#n-type1)"><text x="706" y="106" font-size="24" font-weight="650" fill="#EEF2F7">Quality Gates adopted by 3 teams.<tspan class="caret" fill="#FF9447">|</tspan></text></g>
+  <clipPath id="n-type2"><rect class="type" style="animation-delay:8s" x="706" y="70" width="578" height="50"/></clipPath>
+  <g class="line" style="animation-delay:8s" clip-path="url(#n-type2)"><text x="706" y="106" font-size="24" font-weight="650" fill="#EEF2F7">1st of 11 teams in an AI hackathon.<tspan class="caret" fill="#FF9447">|</tspan></text></g>
+  <clipPath id="n-type3"><rect class="type" style="animation-delay:12s" x="706" y="70" width="655" height="50"/></clipPath>
+  <g class="line" style="animation-delay:12s" clip-path="url(#n-type3)"><text x="706" y="106" font-size="24" font-weight="650" fill="#EEF2F7">A 183-page guide to working with Claude.<tspan class="caret" fill="#FF9447">|</tspan></text></g>
+<text x="706" y="160" font-size="15" fill="#8FA3BA">Details on my portfolio and resume.</text>
+</svg>

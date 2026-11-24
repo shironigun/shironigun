@@ -1,0 +1,57 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="420" viewBox="0 0 1280 420" role="img" aria-label="Mahmood Ahmad, AI Product Analyst. I shape AI products from idea to launch, and build them by directing AI agents." font-family="'Segoe UI Variable Display', 'Segoe UI', 'SF Pro Display', -apple-system, 'Helvetica Neue', Arial, sans-serif">
+<title>Mahmood Ahmad, AI Product Analyst. I shape AI products from idea to launch, and build them by directing AI agents.</title>
+<style>
+  .swing { transform-box: view-box; transform-origin: 1080px 0px; animation: swing 3.8s ease-in-out infinite alternate; }
+  .eye { transform-box: fill-box; transform-origin: center; animation: blink 4.6s infinite; }
+  .legs { transform-box: view-box; transform-origin: 1080px 312px; animation: dangle 3.8s ease-in-out infinite alternate-reverse; }
+  .say { opacity: 0; animation: say 12s infinite; }
+  .say1 { animation-delay: 3s; } .say2 { animation-delay: 6s; } .say3 { animation-delay: 9s; }
+  @keyframes swing { from { transform: rotate(-7deg); } to { transform: rotate(7deg); } }
+  @keyframes dangle { from { transform: rotate(-5deg); } to { transform: rotate(5deg); } }
+  @keyframes blink { 0%, 92%, 100% { transform: scaleY(1); } 95% { transform: scaleY(.1); } }
+  @keyframes say { 0%, 23% { opacity: 1; } 25%, 100% { opacity: 0; } }
+  @media (prefers-reduced-motion: reduce) { .swing, .eye, .legs, .say { animation: none; } .say0 { opacity: 1; } }
+</style>
+<defs>
+  <linearGradient id="h-bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#1E3044"/><stop offset="1" stop-color="#0B1622"/></linearGradient>
+  <pattern id="h-dots" width="24" height="24" patternUnits="userSpaceOnUse"><circle cx="2" cy="2" r="1.1" fill="#fff" fill-opacity=".05"/></pattern>
+</defs>
+<rect width="1280" height="420" rx="28" fill="url(#h-bg)"/>
+<rect width="1280" height="420" rx="28" fill="url(#h-dots)"/>
+<defs>
+  <radialGradient id="h-glow" cx="1080" cy="230" r="260" gradientUnits="userSpaceOnUse"><stop offset="0" stop-color="#FF9447" stop-opacity=".16"/><stop offset="1" stop-color="#FF9447" stop-opacity="0"/></radialGradient>
+  <clipPath id="h-card"><rect width="1280" height="420" rx="28"/></clipPath>
+</defs>
+<rect width="1280" height="420" rx="28" fill="url(#h-glow)"/>
+<text x="72" y="148" font-size="68" font-weight="700" letter-spacing="-1.5" fill="#EEF2F7">Mahmood Ahmad</text>
+<text x="74" y="194" font-size="26" font-weight="600" fill="#FF9447">AI Product Analyst</text>
+<text x="74" y="262" font-size="28" fill="#C9D3E0">I shape AI products from idea to launch,</text>
+<text x="74" y="300" font-size="28" fill="#C9D3E0">and build them by directing AI agents.</text>
+<text x="74" y="358" font-size="18" fill="#8FA3BA">Product first, then design, AI and quality.</text>
+<g class="swing">
+  <line x1="1080" y1="0" x2="1080" y2="146" stroke="#C9D3E0" stroke-opacity=".7" stroke-width="3" stroke-dasharray="2 5" stroke-linecap="round"/>
+  <path d="M1050 262 Q1036 196 1074 138" fill="none" stroke="#FF9447" stroke-width="9" stroke-linecap="round"/>
+  <path d="M1110 262 Q1124 196 1086 128" fill="none" stroke="#FF9447" stroke-width="9" stroke-linecap="round"/>
+  <circle cx="1074" cy="138" r="9" fill="#C9D3E0"/><circle cx="1086" cy="128" r="9" fill="#C9D3E0"/>
+  <line x1="1080" y1="150" x2="1080" y2="168" stroke="#C9D3E0" stroke-width="4"/>
+  <circle cx="1080" cy="150" r="6" fill="#FF9447"/>
+  <rect x="1030" y="166" width="100" height="80" rx="24" fill="#2A4561" stroke="#FF9447" stroke-width="3"/>
+  <rect x="1044" y="182" width="72" height="44" rx="15" fill="#0B1622"/>
+  <circle class="eye" cx="1066" cy="203" r="6.5" fill="#FF9447"/>
+  <circle class="eye" cx="1094" cy="203" r="6.5" fill="#FF9447"/>
+  <path d="M1068 216 Q1080 224 1092 216" fill="none" stroke="#FF9447" stroke-width="3" stroke-linecap="round"/>
+  <rect x="1046" y="252" width="68" height="62" rx="18" fill="#2A4561" stroke="#FF9447" stroke-width="3"/>
+  <circle cx="1080" cy="283" r="8" fill="#60a5fa"/>
+  <g class="legs">
+    <path d="M1066 312 L1062 350" stroke="#C9D3E0" stroke-width="8" stroke-linecap="round"/>
+    <path d="M1094 312 L1098 350" stroke="#C9D3E0" stroke-width="8" stroke-linecap="round"/>
+    <rect x="1048" y="346" width="22" height="12" rx="6" fill="#FF9447"/><rect x="1090" y="346" width="22" height="12" rx="6" fill="#FF9447"/>
+  </g>
+  <path d="M1012 196 L1030 204 L1012 212 Z" fill="#FF9447"/>
+  <rect x="812" y="180" width="202" height="44" rx="16" fill="#FF9447"/>
+    <text class="say say0" x="912" y="208" text-anchor="middle" font-size="17" font-weight="650" fill="#0B1622">Specs first.</text>
+    <text class="say say1" x="912" y="208" text-anchor="middle" font-size="17" font-weight="650" fill="#0B1622">Agents write the code.</text>
+    <text class="say say2" x="912" y="208" text-anchor="middle" font-size="17" font-weight="650" fill="#0B1622">You approve writes.</text>
+    <text class="say say3" x="912" y="208" text-anchor="middle" font-size="17" font-weight="650" fill="#0B1622">Facts before claims.</text>
+</g>
+</svg>

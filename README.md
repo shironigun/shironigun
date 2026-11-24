@@ -1,42 +1,28 @@
 <p align="center">
-  <img src="banner.svg" alt="Mahmood Ahmad, AI Product Analyst: I shape AI products from idea to launch." width="100%">
-</p>
-
-<h1 align="center">Hi 👋, I'm Mahmood Ahmad</h1>
-<h3 align="center">AI Product Analyst. I shape AI products from idea to launch, and build them by directing AI agents.</h3>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=Inter&weight=600&size=22&duration=3200&pause=900&color=FF9447&center=true&vCenter=true&width=760&lines=10+Claude+Code+plugins+and+38+skills.;AI+agents+write+the+code.+I+decide+and+review.;Facts+before+claims.;People+approve+every+write." alt="10 Claude Code plugins and 38 skills. AI agents write the code; I decide and review. Facts before claims. People approve every write.">
+  <img src="assets/hero.svg" width="100%" alt="Mahmood Ahmad, AI Product Analyst. I shape AI products from idea to launch, and build them by directing AI agents. A small AI agent swings on a rope beside the text.">
 </p>
 
 <p align="center">
-  <a href="https://shironigun.github.io"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-shironigun.github.io-FF9447?style=for-the-badge"></a>
-  <a href="https://www.linkedin.com/in/shironigun"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-shironigun-1E3044?style=for-the-badge"></a>
-  <a href="https://shironigun.github.io/resumes/Mahmood_Ahmad_Resume.pdf"><img alt="Resume" src="https://img.shields.io/badge/Resume-PDF-090F16?style=for-the-badge"></a>
-  <a href="https://github.com/shironigun/marketplace"><img alt="Claude Code marketplace" src="https://img.shields.io/badge/Marketplace-10_plugins-60a5fa?style=for-the-badge&logo=claude&logoColor=white"></a>
-  <br>
-  <img alt="Profile views" src="https://komarev.com/ghpvc/?username=shironigun&label=Profile%20views&color=0e75b6&style=flat">
+  <a href="https://shironigun.github.io"><img src="assets/pill-portfolio.svg" alt="Portfolio" height="36"></a>
+  <a href="https://shironigun.github.io/resumes/Mahmood_Ahmad_Resume.pdf"><img src="assets/pill-resume.svg" alt="Resume (PDF)" height="36"></a>
+  <a href="https://www.linkedin.com/in/shironigun"><img src="assets/pill-linkedin.svg" alt="LinkedIn" height="36"></a>
+  <a href="https://x.com/shironigun"><img src="assets/pill-x.svg" alt="X" height="36"></a>
+  <a href="https://www.instagram.com/shironigun"><img src="assets/pill-instagram.svg" alt="Instagram" height="36"></a>
+  <a href="mailto:shironigun@gmail.com"><img src="assets/pill-email.svg" alt="Email shironigun@gmail.com" height="36"></a>
+  <a href="https://github.com/shironigun/marketplace"><img src="assets/pill-marketplace.svg" alt="Claude Code marketplace" height="36"></a>
 </p>
 
-## About me
+<p align="center">
+  <img src="assets/now.svg" width="100%" alt="Now: leading AI feature definition, prototyping and evaluation, alongside the QA team. Learning machine learning and AI evaluation. Proof: 10 Claude Code plugins, 38 skills. Quality Gates adopted by 3 teams. 1st of 11 teams in an AI hackathon. A 183-page guide to working with Claude.">
+</p>
 
-- 🔭 I'm currently working on **[Claude Code marketplace: 10 plugins, 38 skills](https://github.com/shironigun/marketplace)**
+<p align="right"><img src="https://komarev.com/ghpvc/?username=shironigun&label=profile%20views&color=FF9447&style=flat-square" alt="Profile views"></p>
 
-- 🧭 At work, I'm leading **AI feature definition, prototyping and evaluation, alongside the QA team**
+## How I work
 
-- 🌱 I'm currently learning **Machine Learning, AI Evaluation**
-
-- 🧰 How I build: **I decide what to build, specify it and review every result; AI agents write the code**
-
-- 💬 Ask me about **AI evaluation, agentic workflows, and teams that build with AI**
-
-- 📫 How to reach me **shironigun@gmail.com**
-
-- 👨‍💻 All of my projects are available at **[https://shironigun.github.io](https://shironigun.github.io)**
-
-- 📄 Know about my experiences **[Resume (PDF)](https://shironigun.github.io/resumes/Mahmood_Ahmad_Resume.pdf)**
-
-- ⚡ Fun fact **my portfolio has a small AI agent on a rope. Click it too often and it falls, runs a self-repair, and sulks**
+<p align="center">
+  <img src="assets/track.svg" width="100%" alt="How I work: discover, define, design, prototype, deliver, release. AI agents build from my specifications, and every result is reviewed and tested before it counts.">
+</p>
 
 ## What I'm building
 
@@ -76,16 +62,6 @@
 
 </details>
 
-## Skills
-
-| | |
-|---|---|
-| **Product** | Product discovery · Product roadmapping · Business analysis · Software requirements |
-| **Design** | User experience (UX) · User interface prototyping · Design review |
-| **AI** | AI agents · LLM evaluation · Prompt engineering · Rapid prototyping |
-| **Quality** | Test automation · API testing · Test planning · Defect triage |
-| **Leadership** | Coaching · Mentoring · Workshop facilitation · Scrum |
-
 ## Tools I work with
 
 <p align="left">
@@ -102,29 +78,41 @@
 
 ## Certified
 
-<p>
-  <img alt="ISTQB Certified Tester Foundation Level, 2024" src="https://img.shields.io/badge/ISTQB®-CTFL_·_2024-FF9447?style=for-the-badge">
-  <img alt="Certified ScrumMaster, 2024" src="https://img.shields.io/badge/Certified_ScrumMaster®-CSM®_·_2024-FF9447?style=for-the-badge">
-  <img alt="Microsoft Business Analysis Fundamentals, 2026" src="https://img.shields.io/badge/Microsoft-Business_Analysis_Fundamentals_·_2026-FF9447?style=for-the-badge">
+<p align="center">
+  <img src="assets/seals.svg" width="100%" alt="Certified: ISTQB Certified Tester Foundation Level (2024), Certified ScrumMaster (2024), Microsoft Business Analysis Fundamentals (2026).">
 </p>
 
-## GitHub activity
+## On GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shironigun&show_icons=true&locale=en&hide_border=true&theme=transparent&title_color=FF9447&icon_color=FF9447" alt="GitHub stats for shironigun" height="165">
-  <img src="https://streak-stats.demolab.com/?user=shironigun&hide_border=true&background=00000000&ring=FF9447&fire=FF9447&currStreakLabel=FF9447" alt="GitHub contribution streak for shironigun" height="165">
+  <img src="https://github-readme-stats.vercel.app/api?username=shironigun&show_icons=true&hide_rank=true&hide_border=true&theme=transparent&title_color=FF9447&icon_color=FF9447&text_color=8FA3BA&locale=en" alt="GitHub stats for shironigun" height="165">
+  <img src="https://streak-stats.demolab.com/?user=shironigun&hide_border=true&background=00000000&ring=FF9447&fire=FF9447&currStreakLabel=FF9447&sideLabels=8FA3BA&dates=8FA3BA&currStreakNum=C9D3E0&sideNums=C9D3E0&stroke=8FA3BA55" alt="GitHub contribution streak for shironigun" height="165">
 </p>
 
-## How I work
+<details>
+<summary><b>Skills</b></summary>
+<br>
 
-- **Product first:** the problem and the rules come before any code.
-- **Facts before claims:** every number traces to a source, or it stays out.
-- **People approve every write:** drafts first, then a yes, then the change.
+| | |
+|---|---|
+| **Product** | Product discovery · Product roadmapping · Business analysis · Software requirements |
+| **Design** | User experience (UX) · User interface prototyping · Design review |
+| **AI** | AI agents · LLM evaluation · Prompt engineering · Rapid prototyping |
+| **Quality** | Test automation · API testing · Test planning · Defect triage |
+| **Leadership** | Coaching · Mentoring · Workshop facilitation · Scrum |
 
-<h3 align="left">Connect with me:</h3>
+
+</details>
+
+## Connect with me
+
 <p align="left">
-<a href="https://twitter.com/shironigun" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="X (Twitter): shironigun" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/shironigun" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn: shironigun" height="30" width="40" /></a>
-<a href="https://instagram.com/shironigun" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram: shironigun" height="30" width="40" /></a>
-<a href="mailto:shironigun@gmail.com"><img align="center" src="https://img.shields.io/badge/shironigun@gmail.com-1E3044?style=flat-square&logo=gmail&logoColor=white" alt="Email shironigun@gmail.com" height="24" /></a>
+  <a href="https://x.com/shironigun" target="blank"><img align="center" src="assets/social-x.svg" alt="X: shironigun" height="30" width="40"></a>
+  <a href="https://www.linkedin.com/in/shironigun" target="blank"><img align="center" src="assets/social-linkedin.svg" alt="LinkedIn: shironigun" height="30" width="40"></a>
+  <a href="https://www.instagram.com/shironigun" target="blank"><img align="center" src="assets/social-instagram.svg" alt="Instagram: shironigun" height="30" width="40"></a>
+  <a href="mailto:shironigun@gmail.com"><img align="center" src="assets/social-gmail.svg" alt="Gmail: shironigun@gmail.com" height="30" width="40"></a>
 </p>
+
+<br>
+
+<p align="center"><sub>Ask me about AI evaluation, agentic workflows, and teams that build with AI.<br>The little agent up top also lives on my portfolio, where it sulks if you click it too often.</sub></p>
